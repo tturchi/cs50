@@ -1,3 +1,1 @@
-# cs50problemset0
-Scratch project that can be used at https://scratch.mit.edu/. Realised as part of the online course CS50.
-My humble version of the game snake.
+Harvard's CS50 projects
